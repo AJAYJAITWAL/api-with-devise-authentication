@@ -22,3 +22,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+Reference: https://wajeeh-ahsan.medium.com/rails-user-authentication-with-devise-and-simple-token-authentication-7beafd1bb863
